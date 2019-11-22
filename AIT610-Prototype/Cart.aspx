@@ -14,8 +14,6 @@
     <script src="Scripts/bootstrap.min.js"></script>
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="Content/fashion-forever.css" />
-    <script src="Scripts/jquery-3.4.1.min.js"></script>
-    <script src="Scripts/bootstrap.bundle.min.js"></script>
 </head>
 <body>
     <form id="Cart" runat="server">
@@ -270,9 +268,11 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
-    <script src="../../assets/js/vendor/popper.min.js"></script>
-    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="Scripts/jquery-3.4.1.min.js"></script>
+    <script src="Scripts/jquery-3.4.1.slim.min.js"></script>
+    <script src="Scripts/bootstrap.bundle.min.js"></script>
+    <script src="Scripts/popper.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
     <script src="../../assets/js/vendor/holder.min.js"></script>
     <script>
       // Example starter JavaScript for disabling form submissions if there are invalid fields

@@ -75,7 +75,7 @@
                             <div class="card-body mt-3">
                                 <h3 class="card-title">Create a New Account</h3>
                                 <p class="card-text">Please sign up to recieve email and make purchases.</p>
-                                <a href="Account.aspx" class="btn btn-primary w-50 mt-2 mb-3">Sign Up for an Account!</a>
+                                <a href="Account.aspx" class="btn btn-primary w-50 mt-2 mb-3">Create an Account!</a>
 
                             </div>
                             <div class="card-footer">
@@ -108,7 +108,7 @@
             </div>
 
             <!-- Footer -->
-            <footer class="py-5 bg-dark">
+            <footer class="py-3 bg-dark">
                 <div class="container">
                     <p class="m-0 text-center text-white">Copyright &copy; Fashion Forever 2019</p>
                 </div>

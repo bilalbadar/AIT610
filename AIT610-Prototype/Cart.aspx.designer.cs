@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AIT610_Prototype {
-    
-    
-    public partial class WebForm1 {
-        
+namespace AIT610_Prototype
+{
+
+
+    public partial class WebForm1
+    {
+
         /// <summary>
         /// Cart control.
         /// </summary>

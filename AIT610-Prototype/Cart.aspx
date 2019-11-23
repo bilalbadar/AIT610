@@ -43,7 +43,7 @@
                                 <a class="nav-link" href="Account.aspx">Account</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="Cart.aspx">Cart</a>
+                                <a class="nav-link" href="ShoppingCart.aspx">Cart</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="Login.aspx">Login</a>
@@ -56,7 +56,7 @@
             <div class="row mt-5">
                 <div class="col-md-4 order-md-2 mb-4">
                     <h4 class="d-flex justify-content-between align-items-center mb-3">
-                        <span class="text-muted">Your cart</span>
+                        <span class="text-muted">Your Shopping Cart</span>
                         <span class="badge badge-secondary badge-pill">3</span>
                     </h4>
                     <ul class="list-group mb-3">

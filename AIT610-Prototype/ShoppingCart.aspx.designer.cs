@@ -15,12 +15,12 @@ namespace AIT610_Prototype
     {
 
         /// <summary>
-        /// AccountForm control.
+        /// ShoppingCart control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm AccountForm;
+        protected global::System.Web.UI.HtmlControls.HtmlForm ShoppingCart;
     }
 }

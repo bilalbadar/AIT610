@@ -43,7 +43,7 @@
                                 <a class="nav-link" href="Sales.aspx">Sales</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="Cart.aspx">Cart</a>
+                                <a class="nav-link" href="ShoppingCart.aspx">Cart</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="Login.aspx">Login</a>

@@ -43,7 +43,7 @@
                                 <a class="nav-link" href="Sales.aspx">Sales</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="Cart.aspx">Cart</a>
+                                <a class="nav-link" href="ShoppingCart.aspx">Cart</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="Login.aspx">Login</a>
@@ -74,7 +74,7 @@
                 <!-- Call to Action Well -->
                 <div class="card text-white bg-secondary my-5 py-4 text-center">
                     <div class="card-body">
-                        <p class="text-white m-0">20% off sale on our entire inventory during our launch and testing phase.</p>
+                        <p class="text-white m-0"><b>FREE Shipping</b> on our entire inventory, during our launch and testing phase.</p>
                     </div>
                 </div>
 
@@ -83,11 +83,11 @@
                     <div class="col-md-4 mb-5">
                         <div class="card h-100">
                             <div class="card-body" style="background-color: yellow">
-                                <h2 class="card-title">Newest Arrivals</h2>
-                                <p class="card-text">Get your latetst fashion crap here.</p>
+                                <h2 class="card-title">Latest Deals</h2>
+                                <p class="card-text">Check out the latest and greatest sales!</p>
                             </div>
                             <div class="card-footer">
-                                <a href="#" class="btn btn-primary btn-sm">Newest Arrivals</a>
+                                <a href="Sales.aspx" class="btn btn-primary btn-sm">Sales and Deals</a>
                             </div>
                         </div>
                     </div>
@@ -96,10 +96,10 @@
                         <div class="card h-100">
                             <div class="card-body" style="background-color: lightblue">
                                 <h2 class="card-title">Mens</h2>
-                                <p class="card-text">Mens stuff including, "Stripped" and "Salmon" colored stuff</p>
+                                <p class="card-text">All the men fashion items under one place!</p>
                             </div>
                             <div class="card-footer">
-                                <a href="#" class="btn btn-primary btn-sm">Mens Categories</a>
+                                <a href="Mens.aspx" class="btn btn-primary btn-sm">Mens Categories</a>
                             </div>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                                 <p class="card-text">All the fancy women fashions!</p>
                             </div>
                             <div class="card-footer">
-                                <a href="#" class="btn btn-primary btn-sm">Women's Categories</a>
+                                <a href="Womens.aspx" class="btn btn-primary btn-sm">Women's Categories</a>
                             </div>
                         </div>
                     </div>

@@ -44,7 +44,7 @@
                                 <a class="nav-link" href="Sales.aspx">Sales</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="Cart.aspx">Cart</a>
+                                <a class="nav-link" href="ShoppingCart.aspx">Cart</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="Login.aspx">Login</a>
@@ -80,7 +80,7 @@
                     <div class="form-row mt-3">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-24">
                             <label for="addressFirst" class="font-weight-bold">Address</label>
-                            <input type="text" required="required" class="form-control" id="addressFirst" aria-describedby="addressFirst" placeholder="Enter Address"
+                            <input type="text" required="required" class="form-control" id="addressFirst" aria-describedby="addressFirst" placeholder="123 Street Name"
                                 oninvalid="this.setCustomValidity('Please enter a valid address.')"
                                 oninput="setCustomValidity('')" />
                             <small id="addressFirstHelp" class="form-text text-muted">Please enter your address here.</small>
@@ -88,7 +88,7 @@
                     </div>
                     <div class="form-row mt-2">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-24">
-                            <input type="text" class="form-control" id="addressSecond" aria-describedby="addressSecond" placeholder="Enter Addtional Address" />
+                            <input type="text" class="form-control" id="addressSecond" aria-describedby="addressSecond" placeholder="Apartment or Floor (Optional)" />
                             <small id="addressSecondHelp" class="form-text text-muted">Please enter your additional address details here.</small>
                         </div>
                     </div>
@@ -167,7 +167,7 @@
                     <div class="form-row mt-3">
                         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                             <label for="userEmail" class="font-weight-bold">Email</label>
-                            <input type="email" class="form-control" id="userEmail" placeholder="Enter your email. " required="required"
+                            <input type="email" class="form-control" id="userEmail" placeholder="fashion@forever.com" required="required"
                                 oninvalid="this.setCustomValidity('Please enter a valid email address.')"
                                 oninput="setCustomValidity('')" />
                             <small id="userEmailHelp" class="form-text text-muted">Please enter your email. <b>Your email address will be used as your username</b>. </small>

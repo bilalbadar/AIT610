@@ -24,7 +24,7 @@
             <!-- Navigation -->
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
                 <div class="container">
-                    <a class="navbar-brand" href="Home.aspx">Fashion Forever</a>
+                    <a class="navbar-brand h1" href="Home.aspx">Fashion Forever</a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -58,7 +58,7 @@
             <div class="row mt-5">
                 <div class="col-md-4 order-md-1 mb-4">
                     <h4 class="d-flex justify-content-between align-items-center mb-3">
-                        <span class="text-muted">Your Shopping Cart</span>
+                        <span class="h3">Your Shopping Cart</span>
                         <span class="badge badge-secondary badge-pill">3</span>
                     </h4>
                     <ul class="list-group mb-3">
@@ -135,7 +135,7 @@
                     </form>
                 </div>
                 <div class="col-md-8 order-md-2">
-                    <h4 class="mb-3">Shipping address</h4>
+                    <h4 class="mb-3 text-muted">Shipping address</h4>
                     <form class="needs-validation" novalidate="novalidate">
                         <div class="row">
                             <div class="col-md-6 mb-3">
@@ -166,7 +166,7 @@
                             <label for="address">Address</label>
                             <input type="text" class="form-control" id="address" placeholder="123 Street Name" required="required">
                             <div class="invalid-feedback">
-                                Please enter a billing address.
+                                Please enter a shipping address.
                             </div>
                         </div>
 
@@ -249,7 +249,7 @@
                             <label class="custom-control-label" for="same-address">Billing address is the same as my shipping address.</label>
                         </div>
                         <hr class="mb-4">
-                        <h4 class="mb-3">Billing address</h4>
+                        <h4 class="mb-3 text-muted">Billing address</h4>
 
                         <div class="row">
                             <div class="col-md-6 mb-3">
@@ -355,7 +355,7 @@
 
                         <hr class="mb-4">
 
-                        <h4 class="mb-3">Payment Details</h4>
+                        <h4 class="mb-3 text-muted">Payment Details</h4>
 
                         <div class="d-block my-3">
                             <div class="custom-control custom-radio">

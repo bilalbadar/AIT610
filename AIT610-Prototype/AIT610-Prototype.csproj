@@ -90,6 +90,10 @@
     <Content Include="assets\img\men-white-shirt-1-2.jpg" />
     <Content Include="assets\img\mix-color-scarf.jpg" />
     <Content Include="assets\img\Models2.jpeg" />
+    <Content Include="assets\img\sale1.jpg" />
+    <Content Include="assets\img\sale2.jpg" />
+    <Content Include="assets\img\sale3.jpg" />
+    <Content Include="assets\img\sale4.jpg" />
     <Content Include="assets\img\women-blue-dress.jpg" />
     <Content Include="Content\test.css" />
     <Content Include="ShoppingCart.aspx" />

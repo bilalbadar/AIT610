@@ -69,10 +69,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\img\1-1-multi-sewater.jpg" />
+    <Content Include="assets\img\1-2-multi-shirt.jpg" />
+    <Content Include="assets\img\1-3-yellow-jumpsuit.jpg" />
+    <Content Include="assets\img\2-1-trench-coat.jpg" />
+    <Content Include="assets\img\2-2-blue-pants.jpg" />
+    <Content Include="assets\img\2-3-pink-shirt.jpg" />
+    <Content Include="assets\img\3-1-pink-shorts.jpg" />
+    <Content Include="assets\img\3-2-pink-sweater.jpg" />
+    <Content Include="assets\img\3-3-bag.jpg" />
     <Content Include="assets\img\gray-dress-shirt.jpeg" />
+    <Content Include="assets\img\men-bathrobe-3-3.jpg" />
+    <Content Include="assets\img\men-blue-pants-1-1.jpg" />
+    <Content Include="assets\img\men-blue-shirt-1-3.jpg" />
+    <Content Include="assets\img\men-coat-2-1.jpg" />
+    <Content Include="assets\img\men-golden-sweater-2-2.jpg" />
+    <Content Include="assets\img\men-pajama-3-1.jpg" />
+    <Content Include="assets\img\men-pink-shirt-2-3.jpg" />
+    <Content Include="assets\img\men-tie-3-2.jpg" />
+    <Content Include="assets\img\men-white-shirt-1-2.jpg" />
     <Content Include="assets\img\mix-color-scarf.jpg" />
     <Content Include="assets\img\Models2.jpeg" />
     <Content Include="assets\img\women-blue-dress.jpg" />
+    <Content Include="Content\test.css" />
     <Content Include="ShoppingCart.aspx" />
     <Content Include="Checkout.aspx" />
     <Content Include="Login.aspx" />

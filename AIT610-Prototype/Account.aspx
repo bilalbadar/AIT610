@@ -61,14 +61,14 @@
                 <div class="grid">
 
                     <div class="form-row mt-5">
-                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-16">
                             <label for="firstName" class="font-weight-bold">First Name</label>
                             <input type="text" required="required" class="form-control" id="firstName" aria-describedby="firstName" placeholder="Enter First Name"
                                 oninvalid="this.setCustomValidity('Please Enter your first name.')"
                                 oninput="setCustomValidity('')" />
                             <small id="firstNameHelp" class="form-text text-muted">Please enter your first name.</small>
                         </div>
-                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-16">
                             <label for="lastName" class="font-weight-bold">Last Name</label>
                             <input type="text" required="required" class="form-control" id="lastName" aria-describedby="lastName" placeholder="Enter Last Name"
                                 oninvalid="this.setCustomValidity('Please Enter your last name.')"
@@ -78,7 +78,7 @@
                     </div>
 
                     <div class="form-row mt-3">
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-24">
+                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-32">
                             <label for="addressFirst" class="font-weight-bold">Address</label>
                             <input type="text" required="required" class="form-control" id="addressFirst" aria-describedby="addressFirst" placeholder="123 Street Name"
                                 oninvalid="this.setCustomValidity('Please enter a valid address.')"
@@ -87,14 +87,14 @@
                         </div>
                     </div>
                     <div class="form-row mt-2">
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-24">
+                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-32">
                             <input type="text" class="form-control" id="addressSecond" aria-describedby="addressSecond" placeholder="Apartment or Floor (Optional)" />
                             <small id="addressSecondHelp" class="form-text text-muted">Please enter your additional address details here.</small>
                         </div>
                     </div>
 
                     <div class="form-row mt-3">
-                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-16">
                             <label for="stateCode" class="font-weight-bold">State</label>
                             <select class="form-control" id="stateCode"
                                 oninvalid="this.setCustomValidity('Please select a valid state.')"
@@ -154,7 +154,7 @@
 
                             <small id="stateHelp" class="form-text text-muted">Please select your state.</small>
                         </div>
-                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-16">
                             <label for="zipCode" class="font-weight-bold">Zip Code</label>
                             <input type="text" maxlength="5" required="required" class="form-control" id="zipCode" aria-describedby="zipCode" placeholder="Enter your Zip Code."
                                 oninvalid="this.setCustomValidity('Please enter a zip code.')"
@@ -165,7 +165,7 @@
                     </div>
 
                     <div class="form-row mt-3">
-                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-16">
                             <label for="userEmail" class="font-weight-bold">Email</label>
                             <input type="email" class="form-control" id="userEmail" placeholder="fashion@forever.com" required="required"
                                 oninvalid="this.setCustomValidity('Please enter a valid email address.')"
@@ -176,7 +176,7 @@
 
 
                     <div class="form-row mt-3">
-                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-16">
                             <label for="inputPassword" class="font-weight-bold">Password</label>
                             <input type="password" data-minlength="12" class="form-control" id="inputPassword" placeholder="Password" required="required"
                                 oninvalid="this.setCustomValidity('Please enter a valid password.')"
@@ -186,7 +186,7 @@
                     </div>
 
                     <div class="form-row">
-                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-16">
                             <input type="password" data-minlength="6" class="form-control" id="inputPasswordConfirm" data-match="#inputPassword" data-match-error="Password does not match" placeholder="Confirm Password" required="required"
                                 oninvalid="this.setCustomValidity('Please re-enter your selected password.')"
                                 oninput="setCustomValidity('')" />
@@ -196,14 +196,14 @@
 
 
                     <div class="form-row mt-lg-3">
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-24">
+                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-32">
                             <input type="checkbox" required="required" class="form-check-inline" id="termsCheckBox" />
                             <label class="form-check-label" for="termsCheckBox">By checking this box you agree to our terms and conditions.</label>
                         </div>
                     </div>
 
                     <div class="form-row mt-lg-3 mb-lg-3">
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-24">
+                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-32">
                             <button type="submit" class="btn btn-primary w-50 mb-2">Submit</button>
                         </div>
                     </div>

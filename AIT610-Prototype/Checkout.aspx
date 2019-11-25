@@ -56,7 +56,7 @@
             </nav>
 
             <div class="row mt-5">
-                <div class="col-md-4 order-md-2 mb-4">
+                <div class="col-md-4 order-md-1 mb-4">
                     <h4 class="d-flex justify-content-between align-items-center mb-3">
                         <span class="text-muted">Your Shopping Cart</span>
                         <span class="badge badge-secondary badge-pill">3</span>
@@ -134,20 +134,20 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-md-8 order-md-1">
+                <div class="col-md-8 order-md-2">
                     <h4 class="mb-3">Shipping address</h4>
-                    <form class="needs-validation" novalidate>
+                    <form class="needs-validation" novalidate="novalidate">
                         <div class="row">
                             <div class="col-md-6 mb-3">
-                                <label for="firstName">First name</label>
-                                <input type="text" class="form-control" id="firstName" placeholder="" value="Enter First Name" required />
+                                <label for="firstSName">First name</label>
+                                <input type="text" class="form-control" id="firstSName" placeholder="Enter First Name" required="required" />
                                 <div class="invalid-feedback">
                                     Please enter your first name.
                                 </div>
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label for="lastName">Last name</label>
-                                <input type="text" class="form-control" id="lastName" placeholder="" value="Enter Last Name" required />
+                                <label for="lastSName">Last name</label>
+                                <input type="text" class="form-control" id="lastSName" placeholder="Enter Last Name" required="required" />
                                 <div class="invalid-feedback">
                                     Please Enter your last name.
                                 </div>
@@ -156,7 +156,7 @@
 
                         <div class="mb-3">
                             <label for="email">Email <span class="text-muted"></span></label>
-                            <input type="email" class="form-control" id="email" placeholder="fashion@forever.com">
+                            <input type="email" class="form-control" id="email" placeholder="fashion@forever.com" required="required">
                             <div class="invalid-feedback">
                                 Please enter a valid email address.
                             </div>
@@ -164,7 +164,7 @@
 
                         <div class="mb-3">
                             <label for="address">Address</label>
-                            <input type="text" class="form-control" id="address" placeholder="123 Street Name" required>
+                            <input type="text" class="form-control" id="address" placeholder="123 Street Name" required="required">
                             <div class="invalid-feedback">
                                 Please enter a billing address.
                             </div>
@@ -242,9 +242,6 @@
                                 </div>
                             </div>
                         </div>
-
-
-
 
                         <hr class="mb-4">
                         <div class="custom-control custom-checkbox">
@@ -256,15 +253,15 @@
 
                         <div class="row">
                             <div class="col-md-6 mb-3">
-                                <label for="firstName">First name</label>
-                                <input type="text" class="form-control" id="firstName" placeholder="" value="Enter First Name" required />
+                                <label for="firstBName">First name</label>
+                                <input type="text" class="form-control" id="firstBName" placeholder="Enter First Name" required="required" />
                                 <div class="invalid-feedback">
                                     Please enter your first name.
                                 </div>
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label for="lastName">Last name</label>
-                                <input type="text" class="form-control" id="lastName" placeholder="" value="Enter Last Name" required />
+                                <label for="lastBName">Last name</label>
+                                <input type="text" class="form-control" id="lastBName" placeholder="Enter Last Name" required="required" />
                                 <div class="invalid-feedback">
                                     Please Enter your last name.
                                 </div>
@@ -358,7 +355,7 @@
 
                         <hr class="mb-4">
 
-                        <h4 class="mb-3">Payment</h4>
+                        <h4 class="mb-3">Payment Details</h4>
 
                         <div class="d-block my-3">
                             <div class="custom-control custom-radio">

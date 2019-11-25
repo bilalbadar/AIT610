@@ -64,7 +64,7 @@
                     <!-- /.col-lg-8 -->
                     <div class="col-lg-5">
                         <h1 class="font-weight-light">Welcome to the Fashion Forever Online Shopping Experience!</h1>
-                        <p>We're super excited to launch our online shopping portal. We listened to our loyal customers; we have created this online store for you so you can shop and order your favourite fashion clothing and accesories right from the comfort of your home. Don't forget to sign-up below to recieve the latest news and sale alerts as they are announced. We hope this online shopping portal will meet all your expectations!</p>
+                        <p>We're super excited to launch our online shopping portal. We listened to our loyal customers; we have created this online store for you, so you can shop and order your favourite fashion clothing and accesories right from the comfort of your home. Don't forget to sign-up below to recieve the latest news and sale alerts, as soon as they are announced. We hope this online shopping portal will meet all your expectations!</p>
                         <a class="btn btn-primary" href="#">Sign-Up for Sales</a>
                     </div>
                     <!-- /.col-md-4 -->
@@ -82,7 +82,7 @@
                 <div class="row">
                     <div class="col-md-4 mb-5">
                         <div class="card h-100">
-                            <div class="card-body" style="background-color: yellow">
+                            <div class="card-body" style="background-color:mediumseagreen">
                                 <h2 class="card-title">Latest Deals</h2>
                                 <p class="card-text">Check out the latest and greatest sales!</p>
                             </div>
@@ -106,7 +106,7 @@
                     <!-- /.col-md-4 -->
                     <div class="col-md-4 mb-5">
                         <div class="card h-100">
-                            <div class="card-body" style="background-color: pink">
+                            <div class="card-body" style="background-color:lightpink">
                                 <h2 class="card-title">Womens</h2>
                                 <p class="card-text">All the fancy women fashions!</p>
                             </div>
